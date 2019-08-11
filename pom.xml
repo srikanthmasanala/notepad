@@ -6,7 +6,7 @@
 	<groupId>com.jorgeacetozi</groupId>
 	<artifactId>notepad</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>jar</packaging>https://guides.github.com/activit ies/hello-world/
 
 	<name>notepad</name>
 	<description>Demo project for Spring Boot</description>
@@ -28,9 +28,9 @@
 	</properties>
 
 	<scm>
-		<connection>scm:git:git@github.com:jorgeacetozi/notepad.git</connection>
-		<developerConnection>scm:git:git@github.com:jorgeacetozi/notepad.git</developerConnection>
-		<url>scm:git:git@github.com:jorgeacetozi/notepad.git</url>
+		<connection>scm:git:git@github.com:srikanthmasanala/notepad.git</connection>
+		<developerConnection>scm:git:git@github.com:srikanthmasanala/notepad.git</developerConnection>
+		<url>scm:git:git@github.com:srikanthmasanala/notepad.git</url>
 		<tag>HEAD</tag>
 	</scm>
 
